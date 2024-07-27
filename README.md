@@ -28,7 +28,7 @@ To install ByteNet, follow the steps below:
 
 3. **Clone the ByteNet repository:**
     ```bash
-    git clone https://github.com/yourusername/ByteNet.git
+    git clone https://github.com/Deb-svg/ByteNet.git
     cd ByteNet
     ```
 
@@ -51,7 +51,7 @@ To install ByteNet, follow the steps below:
 
 2. **Clone the ByteNet repository:**
     ```sh
-    git clone https://github.com/yourusername/ByteNet.git
+    git clone https://github.com/Deb-svg/ByteNet.git
     cd ByteNet
     ```
 
@@ -66,7 +66,7 @@ To install ByteNet, follow the steps below:
 
 2. **Clone the ByteNet repository:**
     ```bash
-    git clone https://github.com/yourusername/ByteNet.git
+    git clone https://github.com/Deb-svg/ByteNet.git
     cd ByteNet
     ```
 
