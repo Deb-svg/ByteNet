@@ -76,6 +76,24 @@ To install ByteNet, follow the steps below:
     meson compile -C build
     ```
 
+## Running
+
+Commands:
+
+_________________________________________________________________________________
+**First make the files executable so we can use the commands**:
+
+``sh
+chmod +x cmd/simple_client.cpp
+chmod +x cmd/simple_server.cpp
+
+_________________________________________________________________________________
+
+then use:
+``sh
+./cmd/simple_client.cpp
+./cmd/simple_server.cpp
+
 ## Usage
 
 After installing ByteNet, you can start using it in your project. Here is a simple example to get you started:
