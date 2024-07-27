@@ -136,6 +136,8 @@ We welcome contributions from the community! If you'd like to contribute to Byte
 
 ByteNet is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-___________________________________________________________________________________
+## Contact
+For questions or comments, please contact [debsvgteam@gmail.com](mailto:debsvgteam@gmail.com).
+__________________________________________________________________________________
 
 # *End*
