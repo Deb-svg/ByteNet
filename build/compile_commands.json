@@ -1,0 +1,17 @@
+[
+  {
+    "directory": "ByteNet/build",
+    "command": "c++ -Iinclude -std=c++17 -o src/bytenet.o -c src/bytenet.cpp",
+    "file": "src/bytenet.cpp"
+  },
+  {
+    "directory": "ByteNet/build",
+    "command": "c++ -Iinclude -std=c++17 -o src/network.o -c src/network.cpp",
+    "file": "src/network.cpp"
+  },
+  {
+    "directory": "ByteNet/build",
+    "command": "c++ -Iinclude -std=c++17 -o tests/test_network.o -c tests/test_network.cpp",
+    "file": "tests/test_network.cpp"
+  }
+]
